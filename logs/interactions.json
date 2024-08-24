@@ -1,0 +1,56 @@
+{"timestamp": "2024-08-22T15:30:00", "user_id": "default_user", "command": "play music", "response": "Playing music."}
+{"timestamp": "2024-08-23 00:14:05.303731", "user_id": "default_user", "command": "play music", "response": "Playing music."}
+{"timestamp": "2024-08-23 00:23:39.018578", "user_id": "default_user", "command": "play nadaniya", "response": "Playing nadaniya."}
+{"timestamp": "2024-08-23 00:25:25.575803", "user_id": "default_user", "command": "i want news", "response": "Here are the latest news headlines: "}
+{"timestamp": "2024-08-23 00:28:14.362475", "user_id": "default_user", "command": "can you open facebook", "response": null}
+{"timestamp": "2024-08-23 00:29:26.170267", "user_id": "default_user", "command": "can you google how to", "response": null}
+{"timestamp": "2024-08-23 00:29:49.418837", "user_id": "default_user", "command": "how to program", "response": null}
+{"timestamp": "2024-08-23 00:30:14.664707", "user_id": "default_user", "command": "nexa", "response": null}
+{"timestamp": "2024-08-23 00:30:25.054722", "user_id": "default_user", "command": "what playing music i told you to program how to program google it", "response": null}
+{"timestamp": "2024-08-23 00:30:55.168045", "user_id": "default_user", "command": "search jamuna tv", "response": null}
+{"timestamp": "2024-08-23 00:31:24.088107", "user_id": "default_user", "command": "play jamuna news", "response": null}
+{"timestamp": "2024-08-23 00:31:37.428073", "user_id": "default_user", "command": "play a new movie", "response": null}
+{"timestamp": "2024-08-23 00:31:59.838086", "user_id": "default_user", "command": "bangladesh", "response": null}
+{"timestamp": "2024-08-23 00:32:07.030857", "user_id": "default_user", "command": "what is the capital of bangladesh", "response": null}
+{"timestamp": "2024-08-23 00:37:21.254172", "user_id": "default_user", "command": "what is the weather of bangladesh", "response": null}
+{"timestamp": "2024-08-23 00:37:34.139602", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-23 00:37:41.291259", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-23 00:37:58.563901", "user_id": "default_user", "command": "how r u", "response": null}
+{"timestamp": "2024-08-23 00:38:12.021940", "user_id": "default_user", "command": "are you a program", "response": null}
+{"timestamp": "2024-08-23 01:00:36.709289", "user_id": "default_user", "command": "how", "response": null}
+{"timestamp": "2024-08-23 01:00:41.885582", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-23 01:00:47.579242", "user_id": "default_user", "command": "what are you doing", "response": null}
+{"timestamp": "2024-08-23 13:05:52.608967", "user_id": "default_user", "command": "battery status", "response": null}
+{"timestamp": "2024-08-23 13:06:08.675270", "user_id": "default_user", "command": "play faded", "response": null}
+{"timestamp": "2024-08-24 12:45:35.994335", "user_id": "default_user", "command": "alexa how are you", "response": null}
+{"timestamp": "2024-08-24 12:45:49.768525", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-24 13:00:58.608210", "user_id": "default_user", "command": "volume", "response": null}
+{"timestamp": "2024-08-24 13:01:07.213979", "user_id": "default_user", "command": "gate volume", "response": null}
+{"timestamp": "2024-08-24 13:03:12.077556", "user_id": "default_user", "command": "what is the volume now", "response": null}
+{"timestamp": "2024-08-24 13:03:20.751701", "user_id": "default_user", "command": "gate volume", "response": null}
+{"timestamp": "2024-08-24 13:03:30.411171", "user_id": "default_user", "command": "gate volume", "response": null}
+{"timestamp": "2024-08-24 13:03:38.266562", "user_id": "default_user", "command": "get volume", "response": null}
+{"timestamp": "2024-08-24 13:03:56.483421", "user_id": "default_user", "command": "get volume", "response": null}
+{"timestamp": "2024-08-24 13:04:05.614711", "user_id": "default_user", "command": "increase volume", "response": null}
+{"timestamp": "2024-08-24 13:06:23.477313", "user_id": "default_user", "command": "get volume", "response": null}
+{"timestamp": "2024-08-24 13:06:30.287571", "user_id": "default_user", "command": "increase volume", "response": null}
+{"timestamp": "2024-08-24 13:06:37.243263", "user_id": "default_user", "command": "decrease volume", "response": null}
+{"timestamp": "2024-08-24 13:33:06.524013", "user_id": "default_user", "command": "excuses", "response": null}
+{"timestamp": "2024-08-24 13:33:14.600695", "user_id": "default_user", "command": "excuses", "response": null}
+{"timestamp": "2024-08-24 13:33:49.630569", "user_id": "default_user", "command": "excuses", "response": null}
+{"timestamp": "2024-08-24 13:34:02.952496", "user_id": "default_user", "command": "disk uses", "response": null}
+{"timestamp": "2024-08-24 13:34:18.489757", "user_id": "default_user", "command": "uses", "response": null}
+{"timestamp": "2024-08-24 13:34:24.755673", "user_id": "default_user", "command": "disc uses", "response": null}
+{"timestamp": "2024-08-24 13:35:17.445206", "user_id": "default_user", "command": "disk storage", "response": null}
+{"timestamp": "2024-08-24 13:35:50.435888", "user_id": "default_user", "command": "your name", "response": null}
+{"timestamp": "2024-08-24 13:36:51.701938", "user_id": "default_user", "command": "what time is it", "response": null}
+{"timestamp": "2024-08-24 13:39:52.633344", "user_id": "default_user", "command": "what time is it", "response": null}
+{"timestamp": "2024-08-24 13:40:19.515760", "user_id": "default_user", "command": "satta chart", "response": null}
+{"timestamp": "2024-08-24 13:42:24.962299", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-24 13:43:01.907524", "user_id": "default_user", "command": "what time it is", "response": null}
+{"timestamp": "2024-08-24 13:43:47.068814", "user_id": "default_user", "command": "what we change our", "response": null}
+{"timestamp": "2024-08-24 13:44:18.827241", "user_id": "default_user", "command": "recycle bin", "response": null}
+{"timestamp": "2024-08-24 13:45:27.972712", "user_id": "default_user", "command": "desi porn video", "response": null}
+{"timestamp": "2024-08-24 13:46:34.608391", "user_id": "default_user", "command": "stop", "response": null}
+{"timestamp": "2024-08-24 13:48:44.983665", "user_id": "default_user", "command": "what is your name", "response": null}
+{"timestamp": "2024-08-24 13:52:23.879474", "user_id": "default_user", "command": "what is your name", "response": null}

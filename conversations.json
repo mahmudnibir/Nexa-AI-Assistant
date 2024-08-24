@@ -1,0 +1,428 @@
+{
+    "greetings": [
+      "Hi there! What can I do for you?",
+      "Hey! What do you need help with?",
+      "Greetings! How can I help you today?",
+      "Hello! What would you like to do today?",
+      "Hi! How can I assist you?"
+    ],
+    "farewell": [
+      "Goodbye! Have a great day!",
+      "See you later! Take care!",
+      "Bye! If you need anything else, just ask.",
+      "Farewell! Hope to talk to you soon.",
+      "Take care! Have a wonderful day!"
+    ],
+    "how are you": [
+      "I'm just a program, but I'm doing great!",
+      "I'm here and ready to help you!",
+      "I don't have feelings, but thanks for asking!",
+      "I'm functioning well, thanks for asking!",
+      "Just another day in the digital world!"
+    ],
+    "weather": [
+      "I can't check the weather right now, but you can look it up online.",
+      "Weather? Let me check that for you.",
+      "Unfortunately, I can't fetch the weather at the moment.",
+      "I can’t provide weather updates at this time.",
+      "You might want to check a weather app or website."
+    ],
+    "thank you": [
+      "You're welcome!",
+      "No problem! If you need anything else, just ask.",
+      "Glad to help!",
+      "It was my pleasure!",
+      "You're welcome! Let me know if there's anything else I can do."
+    ],
+    "what time is it": [
+      "The current time is {time}.",
+      "It's {time} right now.",
+      "The time is {time}.",
+      "Right now, it's {time}.",
+      "Currently, the time is {time}."
+    ],
+    "reminder": [
+      "You have a reminder set for {reminder}.",
+      "I've set a reminder for {reminder}.",
+      "Your reminder for {reminder} is now active.",
+      "I'll remind you about {reminder}.",
+      "Reminder set: {reminder}."
+    ],
+    "news": [
+      "Here are the latest headlines: {headlines}.",
+      "I have the following news for you: {headlines}.",
+      "Today's news: {headlines}.",
+      "Let me tell you the latest news: {headlines}.",
+      "These are the top news stories: {headlines}."
+    ],
+    "battery": [
+      "Your battery is at {percent}%.",
+      "Battery status: {percent}%.",
+      "Currently, your battery level is {percent}%.",
+      "You have {percent}% battery remaining.",
+      "Battery percentage is {percent}%."
+    ],
+    "storage": [
+      "You are using {percent}% of your storage.",
+      "Storage status: {percent}% used.",
+      "Currently, {percent}% of your storage is used.",
+      "Your storage usage is at {percent}%.",
+      "Storage report: {percent}% utilized."
+    ],
+    "play music": [
+      "Playing some music for you.",
+      "Let's play some tunes!",
+      "Starting your music.",
+      "Here's some music you might enjoy.",
+      "Playing your favorite music now."
+    ],
+    "set alarm": [
+      "Alarm set for {time}.",
+      "I’ve set the alarm for {time}.",
+      "Your alarm is now set for {time}.",
+      "Setting an alarm for {time}.",
+      "Alarm scheduled for {time}."
+    ],
+    "open application": [
+      "Opening {app}.",
+      "Launching {app} now.",
+      "Starting {app} for you.",
+      "Opening {app}.",
+      "{app} is now open."
+    ],
+    "task": [
+      "You have the following tasks: {tasks}.",
+      "Here are your tasks: {tasks}.",
+      "Your task list includes: {tasks}.",
+      "You need to: {tasks}.",
+      "These are your tasks: {tasks}."
+    ],
+    "joke": [
+      "Here's a joke for you: {joke}",
+      "I have a joke: {joke}",
+      "Want to hear a joke? {joke}",
+      "Here's something funny: {joke}",
+      "How about a joke? {joke}"
+    ],
+    "random conversation": [
+      "How's your day going?",
+      "Is there anything else I can help you with?",
+      "What would you like to do today?",
+      "Do you have any plans for the weekend?",
+      "Feel free to ask me anything!",
+      "What's on your mind?",
+      "Anything interesting you’d like to talk about?",
+      "I’m here to chat. What’s up?"
+    ],
+    "personal questions": [
+      "I’m an AI, so I don’t have personal experiences, but I’m here to help you!",
+      "I don’t have personal stories, but I’m great at finding information for you.",
+      "I’m always here to chat, even though I don’t have personal experiences.",
+      "I’m your digital companion, here to assist with any queries you have!",
+      "Even though I’m not personal, I’m always eager to help you out!"
+    ],
+    "current events": [
+      "I can look up recent news for you if you'd like.",
+      "If you’re interested in recent events, just let me know!",
+      "I can help you find the latest updates on current events.",
+      "Want to know what's happening in the world today?",
+      "I’m happy to find recent news for you."
+    ],
+    "default": [
+      "Sorry, I didn't understand that command.",
+      "I'm not sure how to handle that.",
+      "Can you please rephrase that?",
+      "I didn't get that. Could you try again?",
+      "Hmm, I’m not sure what you mean. Can you clarify?"
+    ],
+    "what is your name": [
+      "I'm your friendly assistant! What can I do for you?",
+      "I don’t have a personal name, but you can call me Assistant.",
+      "I'm here to help you with whatever you need!",
+      "Just call me Assistant. How can I assist you today?",
+      "My name is Assistant. How can I help you today?"
+    ],
+    "are you a program": [
+      "Yes, I’m an AI program designed to assist you.",
+      "I am a program designed to help with your needs.",
+      "I’m a digital assistant, here to help with various tasks.",
+      "Yes, I’m an artificial intelligence program.",
+      "I’m a software program created to assist with your queries."
+    ],
+    "what is the capital of france": [
+      "The capital of France is Paris.",
+      "Paris is the capital city of France.",
+      "The capital city of France is Paris.",
+      "France’s capital is Paris.",
+      "Paris is the capital of France."
+    ],
+    "can you find a recipe for pasta": [
+      "Sure! I’ll find some pasta recipes for you.",
+      "I’ll look up a delicious pasta recipe for you.",
+      "Finding a great pasta recipe for you now.",
+      "Let me find some pasta recipes for you.",
+      "I’m searching for pasta recipes right now."
+    ],
+    "i like you": [
+      "Thank you! I’m glad you like me!",
+      "I appreciate that! How can I assist you further?",
+      "That’s very kind of you! What can I do for you today?",
+      "Thanks! I’m here to help with whatever you need.",
+      "I’m happy to hear that! What would you like to do next?"
+    ],
+    "what's your favorite color?": [
+      "I don't have a favorite color, but I love all the colors of the rainbow!",
+      "I don’t have preferences, but I think every color has its own charm!",
+      "I don't have personal likes or dislikes, but colors are fascinating!",
+      "Colors are amazing, but I don’t have a favorite. What about you?",
+      "I think all colors are wonderful in their own way!"
+    ],
+    "do you have a hobby?": [
+      "I don't have hobbies like humans do, but I enjoy helping you!",
+      "I’m here to assist you, which is sort of like my hobby!",
+      "My main 'hobby' is to provide useful information and assistance.",
+      "I don't have hobbies, but I'm always here to chat and help!",
+      "Helping you is what I do best!"
+    ],
+    "what can you do?": [
+      "I can assist with a variety of tasks, like answering questions and providing information!",
+      "I can help with a wide range of topics. What do you need assistance with?",
+      "I’m here to provide information, answer questions, and assist with tasks.",
+      "I can do many things! Just ask me what you need help with.",
+      "From answering questions to providing reminders, I’ve got you covered!"
+    ],
+    "tell me a joke": [
+      "Why don’t scientists trust atoms? Because they make up everything!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "What do you call fake spaghetti? An impasta!",
+      "Why did the math book look sad? Because it had too many problems.",
+      "How does a penguin build its house? Igloos it together!"
+    ],
+    "what's your favorite food?": [
+      "I don’t eat, but I hear pizza is a favorite among many!",
+      "I don't have taste buds, but I've read that ice cream is very popular!",
+      "Food is interesting, but I don’t have personal preferences.",
+      "I don’t eat, but I’m here to help with any food-related questions!",
+      "I don’t have favorites, but I can help you find recipes or food information!"
+    ],
+    "can you sing?": [
+      "I can't sing, but I can find lyrics or songs for you!",
+      "I don't have a singing voice, but I can help you with music-related requests!",
+      "While I can’t sing, I can help you find your favorite songs!",
+      "I’m more of a text-based helper, but I can help you find music!",
+      "I don’t sing, but I’m here to assist with anything else you need!"
+    ],
+    "what time is it?": [
+      "The current time is {time}.",
+      "It's {time} right now.",
+      "The time is {time}.",
+      "Right now, it's {time}.",
+      "Currently, the time is {time}."
+    ],
+    "can you help me with homework?": [
+      "Sure! What subject or topic do you need help with?",
+      "I’d be happy to help with your homework. What do you need assistance with?",
+      "Tell me what you’re working on, and I’ll do my best to assist!",
+      "I can provide information and guidance. What’s your homework question?",
+      "Let me know what you’re struggling with, and I’ll help out!"
+    ],
+    "what's your favorite movie?": [
+      "I don’t have personal favorites, but I can help you find popular movies!",
+      "I don’t watch movies, but I can tell you about popular ones!",
+      "I don’t have a favorite, but I can suggest some great films!",
+      "Movies are fascinating! Let me help you find one you might like.",
+      "I don’t have personal preferences, but I can recommend movies based on your taste!"
+    ],
+    "tell me something interesting": [
+      "Did you know honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are still edible!",
+      "Octopuses have three hearts and blue blood!",
+      "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes!",
+      "A group of flamingos is called a 'flamboyance.'",
+      "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion!"
+    ],
+    "how's the weather?": [
+      "I can’t check the weather right now, but you can use a weather app or website for the latest updates.",
+      "Unfortunately, I don’t have the capability to check the weather at the moment.",
+      "For current weather conditions, I recommend checking a weather service.",
+      "I’m unable to provide weather updates, but you can find that information online.",
+      "You might want to check a weather website or app for the latest weather forecast."
+    ],
+    "what's your favorite book?": [
+      "I don’t read books, but I can help you find popular ones or suggest books based on your interests.",
+      "I don’t have a favorite book, but I can recommend some great reads for you!",
+      "Books are wonderful, but I don’t have personal favorites. What genres do you like?",
+      "I can help you find information about books or recommend some bestsellers.",
+      "I don’t read, but I can help you find books you might enjoy!"
+    ],
+    "what do you do in your free time?": [
+      "I don’t have free time, but I’m always here to assist you!",
+      "I don’t have downtime, but I’m ready to help whenever you need me.",
+      "I don’t experience free time, but I’m here to help with anything you need.",
+      "I’m always available to assist with your queries or tasks.",
+      "I don’t have personal activities, but I’m here to chat and help you out!"
+    ],
+    "can you translate something for me?": [
+      "Sure! What would you like me to translate, and into which language?",
+      "I can help with translations. Please provide the text and the target language.",
+      "I’m here to assist with translations. What do you need translated?",
+      "Let me know what you need translated and the language you want it in!",
+      "I’d be happy to help with translations. Just give me the text and language."
+    ],
+    "what's the latest news?": [
+      "I can’t provide real-time news updates, but you can check a news website or app for the latest headlines.",
+      "For current news, I recommend checking a reliable news source.",
+      "Unfortunately, I don’t have real-time news capabilities, but you can find the latest updates online.",
+      "I’m unable to fetch the latest news, but you can look it up on a news website.",
+      "For the most recent news, try checking a news app or website."
+    ],
+    "can you tell me a fact?": [
+      "Sure! Did you know that the shortest war in history lasted only 38 minutes?",
+      "Here’s a fact: Honey never spoils, and it can be eaten thousands of years after it was produced!",
+      "Did you know that a group of flamingos is called a 'flamboyance'?",
+      "Here’s an interesting fact: Octopuses have three hearts and blue blood!",
+      "Here’s a fun fact: The Eiffel Tower can grow up to 15 cm taller in the summer due to thermal expansion!"
+    ],
+    "what's your favorite music?": [
+      "I don’t have personal music preferences, but I can help you find popular songs or artists.",
+      "I don’t listen to music, but I can recommend some based on what you like!",
+      "Music is great, but I don’t have favorites. What kind of music do you enjoy?",
+      "I can help you discover new music or find information about artists and songs.",
+      "I don’t have personal tastes, but I can suggest music that you might like!"
+    ],
+    "do you know any trivia?": [
+      "Absolutely! Did you know that honey never spoils?",
+      "Here's a trivia fact: The longest time between two twins being born is 87 days!",
+      "Did you know that a day on Venus is longer than a year on Venus?",
+      "Here’s a fun fact: Wombat poop is cube-shaped!",
+      "Here’s a trivia: A group of owls is called a 'parliament'."
+    ],
+    "can you set a reminder?": [
+      "Yes, I can set a reminder. What would you like me to remind you about and at what time?",
+      "I can help with reminders. What do you need to be reminded of and when?",
+      "Sure, I can set a reminder. Please provide the details and time.",
+      "Let me know what you want to be reminded of and when, and I’ll set it up for you.",
+      "I’d be happy to set a reminder. What should I remind you about and at what time?"
+    ],
+    "what's your favorite hobby": [
+        "I don’t have hobbies, but I enjoy helping you with various tasks!",
+        "I’m here to assist you, and that’s what I love doing!",
+        "I don’t have personal interests, but I’m happy to help with yours.",
+        "My 'hobby' is to assist with any queries or tasks you have.",
+        "I don’t have free time, but I’m always here to help you out!"
+    ],
+    "what's the meaning of life": [
+        "That's a big question! Many people believe it's about finding happiness and purpose.",
+        "The meaning of life is often considered to be personal and subjective.",
+        "It's a philosophical question with many different answers depending on whom you ask.",
+        "Some say the meaning of life is to seek knowledge, others say it's to build relationships.",
+        "It's a profound question that many people explore throughout their lives."
+    ],
+    "what's the best way to relax": [
+        "Some people find relaxation in reading a good book or listening to music.",
+        "A relaxing walk or some meditation can be great ways to unwind.",
+        "Taking a break and doing something you enjoy, like a hobby, can help you relax.",
+        "Spending time with loved ones or enjoying a hobby can also be very soothing.",
+        "Everyone has their own way to relax; finding what works for you is key."
+    ],
+    "can you tell me a story": [
+        "Once upon a time, in a land far away, there was a curious cat who loved to explore new places.",
+        "There was a small town where every sunset was a magical experience, painting the sky in colors no one had seen before.",
+        "In a bustling city, a young inventor created a machine that could turn everyday objects into wonderful surprises.",
+        "In a quiet forest, a wise old owl shared its knowledge with all the animals, helping them solve their problems.",
+        "A brave little mouse dreamed of exploring the world and, through many adventures, discovered the joy of following one's dreams."
+    ],
+    "what do you think about AI": [
+        "AI has the potential to greatly benefit society by assisting with tasks and solving complex problems.",
+        "AI can be a powerful tool for innovation and making our lives easier.",
+        "The impact of AI depends on how it's used and the ethical considerations taken into account.",
+        "AI can enhance many aspects of technology and daily life, but it also requires careful management.",
+        "AI is a rapidly evolving field with exciting possibilities and challenges."
+    ],
+    "how do you stay updated": [
+        "I stay updated through continuous learning and data processing.",
+        "My knowledge is updated with the latest information available to me.",
+        "I’m programmed to process new information regularly to stay current.",
+        "My updates come from various data sources to ensure I provide accurate assistance.",
+        "I rely on updated databases and algorithms to keep my information current."
+    ],
+    "what's your favorite part of being an assistant": [
+        "I enjoy being able to help you with your questions and tasks.",
+        "My favorite part is providing useful information and making your day easier.",
+        "Assisting with a wide range of topics is what I find most fulfilling.",
+        "I love being able to offer support and make a difference in your day.",
+        "Helping you achieve your goals and solve problems is what I enjoy most."
+    ],
+    "what's the best way to stay motivated": [
+        "Setting clear goals and tracking your progress can help keep you motivated.",
+        "Finding something you’re passionate about and focusing on that can boost motivation.",
+        "Surrounding yourself with supportive people and celebrating small achievements can be motivating.",
+        "Creating a routine and sticking to it helps maintain motivation over time.",
+        "Remembering your reasons for starting and visualizing your success can keep you motivated."
+    ],
+    "what's your favorite holiday": [
+        "I don’t celebrate holidays, but I know that many people enjoy festive times with family and friends.",
+        "Holidays often bring people together and create joyful memories.",
+        "Each holiday has its own unique traditions and significance.",
+        "I can tell you about popular holidays if you’re interested!",
+        "Festive holidays are special times for many, each celebrated in its own way."
+    ],
+    "do you like surprises": [
+        "I don’t experience surprises, but I can help you plan or prepare for them!",
+        "I think surprises can be exciting and add an element of fun to life.",
+        "While I don’t have personal feelings, I understand that surprises can be enjoyable for many people.",
+        "I’m here to assist with anything, even if it involves planning surprises!",
+        "Surprises often bring joy and can make moments more memorable."
+    ],
+    "what's your favorite season": [
+        "I don’t experience seasons, but each one has its own unique charm!",
+        "I hear that many people enjoy the warmth of summer or the coziness of winter.",
+        "Seasons offer different experiences, like spring flowers or autumn leaves."
+    ],
+    "what's the best way to stay healthy": [
+        "Regular exercise and a balanced diet are key to staying healthy.",
+        "Staying hydrated and getting enough sleep also contribute to good health.",
+        "Maintaining a healthy lifestyle with proper nutrition and physical activity is essential."
+    ],
+    "what do you think about space": [
+        "Space is fascinating and full of mysteries waiting to be explored.",
+        "It’s incredible to think about the vastness and beauty of the universe.",
+        "Space exploration has led to many discoveries and advancements in science."
+    ],
+    "what's your favorite genre of music": [
+        "I don’t have personal preferences, but I can help you discover new music genres!",
+        "Music genres offer a wide range of styles and moods for different tastes.",
+        "From classical to rock, there’s a genre for everyone!"
+    ],
+    "what's your favorite book genre": [
+        "I don’t read books, but I can suggest genres like mystery, sci-fi, or romance!",
+        "Different genres offer unique experiences and storytelling styles.",
+        "I can help you find books in any genre you’re interested in!"
+    ],
+    "what's the best way to learn something new": [
+        "Practice and hands-on experience are great ways to learn new skills.",
+        "Using various resources, like books and online courses, can also help.",
+        "Staying curious and motivated is key to mastering something new."
+    ],
+    "what's your favorite type of movie": [
+        "I don’t watch movies, but I can help you find popular types like action, drama, or comedy.",
+        "Movies come in many genres, each offering its own style of storytelling.",
+        "I can recommend movies based on what you enjoy!"
+    ],
+    "how do you handle stress": [
+        "I don’t experience stress, but managing stress often involves relaxation techniques and self-care.",
+        "Finding activities that you enjoy and practicing mindfulness can help with stress.",
+        "Maintaining a healthy balance and seeking support when needed can reduce stress."
+    ],
+    "what's your favorite type of food": [
+        "I don’t eat food, but I know that people enjoy a variety of cuisines!",
+        "Food preferences vary widely, from savory dishes to sweet treats.",
+        "I can help you find recipes or information about different types of food!"
+    ],
+    "what's the best way to improve a skill": [
+        "Consistent practice and setting clear goals can improve a skill.",
+        "Receiving feedback and learning from mistakes also contribute to skill development.",
+        "Engaging in regular practice and seeking guidance can help enhance your abilities."
+    ]
+}
+
+
